@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4913163430669733176
+  m_GuidHigh: 12243396075271761799
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4852904330753926723
+      m_GuidHigh: 2059933560618339509
+    m_SerializedTextureGuid:
+      m_GuidLow: 13120371240346729244
+      m_GuidHigh: 8140177428061476600
+    m_Size: {x: 0.2, y: 0.2665127}
+    m_SpecifySize: 1
+    m_Name: Vesipullo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4637931290073791695
+      m_GuidHigh: 16145325597822000793
+    m_SerializedTextureGuid:
+      m_GuidLow: 11021649749844835437
+      m_GuidHigh: 2384184581934205851
+    m_Size: {x: 0.3, y: 0.39976907}
+    m_SpecifySize: 1
+    m_Name: Kissa
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5130736744164016634
+      m_GuidHigh: 6319177465818695347
+    m_SerializedTextureGuid:
+      m_GuidLow: 12165623261855113984
+      m_GuidHigh: 7046733375943487483
+    m_Size: {x: 0.1, y: 0.10173611}
+    m_SpecifySize: 1
+    m_Name: Kukka
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5608667735759349540
+      m_GuidHigh: 13704894293457298838
+    m_SerializedTextureGuid:
+      m_GuidLow: 1415264634288237301
+      m_GuidHigh: 3032003501608056874
+    m_Size: {x: 0.15008666, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Kukka
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4724743764122236176
+      m_GuidHigh: 5123264399224624036
+    m_SerializedTextureGuid:
+      m_GuidLow: 8909260914327882353
+      m_GuidHigh: 6464326393714000043
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kissa
+    m_Texture: {fileID: 0}
